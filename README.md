@@ -1,11 +1,11 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/ninjusdev/ninjusdev/blob/main/resources/img/waving.gif">, I'm NinjusDev</h1>
-<h4 align="center">a 17-year-old developer on a mission! See my resume <a href="https://github.com/ninjusdev" target="_blank">here</a>.</h4>
+<h1 align="center">Hi, I'm NinjusDev</h1>
+<h4 align="center">a 17-year-old developer on a mission! See my <a href="https://github.com/ninjusdev" target="_blank">resume</a> for more.</h4>
 </div>
 
 <div align="center">
   <a href="https://ninjusdev.github.io/ninjusdev/">
-  <img  src="https://github.com/ninjusdev/ninjusdev/blob/main/resources/img/grid-snake.svg"
+<img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
@@ -38,7 +38,7 @@
 </details>
 
 <details>
-  <summary>🧮 about</summary>
+  <summary>🧮 About</summary>
 <div>
 <samp>
 <h2 align="center">About this Account</h2>
@@ -119,25 +119,6 @@
 <details>
   <summary>🌏 global</summary>
   <br/>
-  <details open>
-  <summary>👷‍♂️ create your own custom badge</summary>
-  <div>
-  <samp>
-    <h2 align="center">u can try using these website for creating your own custom badge</h2>
-    <p align="center">
-      <a href="https://forthebadge.com/generator/" target="blank">
-        <img src="https://forthebadge.com/images/mark.svg" img align="center" height="50"
-        alt="for the badge"/></a>        
-      <a href="https://badgen.net/" target="blank">
-        <img src="https://badgen.net/static/favicon.png" img align="center" height="50"
-        alt="badgen"/></a>
-      <a href="https://shields.io/" target="blank">
-        <img src="https://raw.githubusercontent.com/badges/shields/master/readme-logo.svg" img align="center" height="50"
-        alt="shields.io"/></a>
-    </p>
-    </samp>
-  </div>
-</details> 
 <details open>
   <summary>😒 random stuff</summary>
 <div>
