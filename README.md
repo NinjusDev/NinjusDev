@@ -93,7 +93,7 @@
         </p>
 </details>
     <details open>
-  <summary><h3>stasistic</h3></summary>
+  <summary><h3>Stasistic</h3></summary>
         <p align="center">
           <a href="https://github.com/ninjusdev/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ninjusdev&show_icons=true&theme=gruvbox&hide_border=true" />
@@ -111,16 +111,16 @@
   <br/>
   <h2 align="center"> latest contribution </h2>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=ninjusdev&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+  <img alt="NinjusDev Activity Graph" src="" /></a>
 <br/>
   </samp>
   </details>
   
 <details>
-  <summary>🌏 global</summary>
+  <summary>🌏 Global</summary>
   <br/>
 <details open>
-  <summary>😒 random stuff</summary>
+  <summary>😒 Random stuff</summary>
 <div>
 <samp>
 <h2 align="center"> just an ascii art of me holding an umbrella </h2>
