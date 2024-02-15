@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi, I'm NinjusDev</h1>
+<h1 align="center">Hi, I'm ninjusdev</h1>
 <h4 align="center">a 17-year-old developer on a mission! See my <a href="https://github.com/ninjusdev" target="_blank">resume</a> for more.</h4>
 </div>
 
